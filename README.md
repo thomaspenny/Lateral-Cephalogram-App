@@ -4,6 +4,8 @@ App for accurate lateral cephalometric analysis
 ## Overview
 This application is a specialized tool developed for PhD dental research to facilitate fast and accurate lateral cephalometric analysis. The tool provides a user-friendly interface for marking anatomical landmarks on X-ray images and automatically calculates relevant measurements, angles, and ratios used in orthodontic and maxillofacial research.
 
+This work was asked of me by a friend who is undertaking the research, and so I created this custom tool for them. It is not my intention to support this tool for others, however I am willing to take questions from others if they find the tool useful. For example, it is likely that the measurements in the tool does not align with the measurements another student/dentist regularly uses. I am happy to make adjustments for individuals that request any such custom changes. Contact details are at the bottom of the README file.
+
 ## Features
 - **Interactive Image Analysis**: Load lateral cephalometric radiographs and mark key anatomical landmarks
 - **Comprehensive Measurements**: Automatically calculates:
@@ -68,7 +70,7 @@ The following measurements are automatically calculated:
    
 3. Run the application:
    ```
-   python testing.py
+   python lateralceph.py
    ```
 
 ## Usage Instructions
@@ -102,12 +104,5 @@ This tool was developed specifically for PhD dental research to standardize ceph
 ## Contributing
 This tool is primarily developed for specific research purposes, but contributions to improve functionality are welcome. Please contact the repository owner for more information.
 
-## License
-[Specify your license information here]
-
-## Citation
-If you use this tool in your research, please cite:
-[Provide citation information here]
-
 ## Contact
-[Your contact information]
+pennythomas@hotmail.co.uk
