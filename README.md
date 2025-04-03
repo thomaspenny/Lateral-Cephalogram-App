@@ -1,8 +1,6 @@
 # Lateral-Cephalogram-App
 App for accurate lateral cephalometric analysis
 
-# Lateral Cephalometric Analysis Tool
-
 ## Overview
 This application is a specialized tool developed for PhD dental research to facilitate fast and accurate lateral cephalometric analysis. The tool provides a user-friendly interface for marking anatomical landmarks on X-ray images and automatically calculates relevant measurements, angles, and ratios used in orthodontic and maxillofacial research.
 
