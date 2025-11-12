@@ -762,4 +762,5 @@ def launch_application():
         messagebox.showerror("Application Error", f"Failed to launch application: {str(e)}")
 
 if __name__ == "__main__":
+
     launch_application()
