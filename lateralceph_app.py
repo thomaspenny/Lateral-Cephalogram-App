@@ -411,16 +411,13 @@ def load_image():
         if submit_button:
             submit_button.destroy()
             
-        undo_button = tk.Button(button_frame, text="Undo Last Point", command=undo_last_point, 
-                               bg="gray", fg="darkgray", font=("Arial", 10, "bold"), state=tk.DISABLED)
+        undo_button = tk.Button(button_frame, text="Undo Last Point", command=undo_last_point, bg="gray", fg="darkgray", font=("Arial", 10, "bold"), state=tk.DISABLED)
         undo_button.pack(side=tk.LEFT, padx=5, expand=True)
 
-        scale_button = tk.Button(button_frame, text="Set Scale", command=get_scale, 
-                                bg="lightblue", fg="black", font=("Arial", 10, "bold"))
+        scale_button = tk.Button(button_frame, text="Set Scale", command=get_scale, bg="lightblue", fg="black", font=("Arial", 10, "bold"))
         scale_button.pack(side=tk.LEFT, padx=5, expand=True)
 
-        submit_button = tk.Button(button_frame, text="Submit Points", command=submit_points,
-                                 bg="gray", fg="darkgray", font=("Arial", 10, "bold"), state=tk.DISABLED)
+        submit_button = tk.Button(button_frame, text="Submit Points", command=submit_points, bg="gray", fg="darkgray", font=("Arial", 10, "bold"), state=tk.DISABLED)
         submit_button.pack(side=tk.LEFT, padx=5, expand=True)
 
         scale = 0
