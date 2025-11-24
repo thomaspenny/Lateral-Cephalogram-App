@@ -1,7 +1,7 @@
 # Lateral-Cephalogram-App
 App for accurate lateral cephalometric analysis
 
-Download the Setup Wizard for the App: https://www.dropbox.com/scl/fi/r7absmshib8p96zw6kwhm/CreditCardFraudDetectionSetup.exe?rlkey=qnbcxq26li4d9f0u01wy5mulv&st=j06jjgpz&dl=1
+Download the Setup Wizard for the App: https://www.dropbox.com/scl/fi/fv5nwns32get5lmemrcdk/LateralCephalogramSetup.exe?rlkey=v4ylb9p9a0nai5jzktk4owfpx&st=uc4ah4zn&dl=1
 
 ## Table of Contents
 - [Overview](#overview)
